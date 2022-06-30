@@ -1,0 +1,3 @@
+/Users/daniilzastaskov/CLionProjects/ObjectTree4/cmake-build-debug/CMakeFiles/untitled10.dir
+/Users/daniilzastaskov/CLionProjects/ObjectTree4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/daniilzastaskov/CLionProjects/ObjectTree4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
